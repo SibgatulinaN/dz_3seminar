@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\23.02.23\\Task19\\Task19.csproj": {}
+    "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\dz_3seminar\\Task19\\Task19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\23.02.23\\Task19\\Task19.csproj": {
+    "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\dz_3seminar\\Task19\\Task19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\23.02.23\\Task19\\Task19.csproj",
+        "projectUniqueName": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\dz_3seminar\\Task19\\Task19.csproj",
         "projectName": "Task19",
-        "projectPath": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\23.02.23\\Task19\\Task19.csproj",
+        "projectPath": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\dz_3seminar\\Task19\\Task19.csproj",
         "packagesPath": "C:\\Users\\mehry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\23.02.23\\Task19\\obj\\",
+        "outputPath": "C:\\Users\\mehry\\OneDrive\\Рабочий стол\\dz_3seminar\\Task19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehry\\AppData\\Roaming\\NuGet\\NuGet.Config"
